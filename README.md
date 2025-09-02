@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about<br>I love working with **Java, JavaScript, Typescript, Nextjs ,React, and Tailwind CSS**.  <br>Whether it’s building responsive UIs, styling with Tailwind, or handling frontend logic in React, I enjoy turning ideas into clean and functional code.  <br>I’m also comfortable with **Java** for problem-solving and backend logic.
+💬 Ask me about<br> **Java, JavaScript ,React, and Data Structures and Alogrithms**.  <br>Whether it’s building responsive UIs, styling with Tailwind, or handling frontend logic in React, I enjoy turning ideas into clean and functional code.
 
 
 ## 🌐 Socials:
